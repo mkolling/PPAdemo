@@ -11,7 +11,7 @@ public class Dog extends Animal
     private int x;
 
     /**
-     * Constructor for objects of class Dog
+     * Constructor for objects of class Dog.
      */
     public Dog()
     {
