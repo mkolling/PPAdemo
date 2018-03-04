@@ -25,9 +25,8 @@ public class Dog extends Animal
      * @param  y  a sample parameter for a method
      * @return    the sum of x and y
      */
-    public int sampleMethod(int y)
+    public void bark()
     {
-        // put your code here
-        return x + y;
+        System.out.println("woof");
     }
 }
