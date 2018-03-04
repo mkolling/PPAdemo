@@ -27,7 +27,6 @@ public class Cat extends Animal
      */
     public int sampleMethod(int y)
     {
-        // put your code here
-        return x + y;
+        return 99;
     }
 }
